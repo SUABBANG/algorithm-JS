@@ -1,2 +1,2 @@
 # algorithm-JS
-JS 연습 공간
+Fontend 연습 공간입니다.
